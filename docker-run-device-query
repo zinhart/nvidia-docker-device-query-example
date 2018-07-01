@@ -1,0 +1,1 @@
+nvidia-docker run --rm -ti device-query
